@@ -4,6 +4,7 @@ https://code.google.com/p/simple-assembly-exploror/
 [2014.05.23: I'm back to Google Code]
 [2015.05.25: Move to GitHub]
 
+wiki: https://code.google.com/p/simple-assembly-exploror/w/list
  
 Simple Assembly Explorer (SAE) is an OPEN SOURCE .Net assembly tool.
 
@@ -50,3 +51,4 @@ And Mono Cecil, .Net Reflector, ILSpy, ILMerge ...
 Discussion:
 Google Code Issues
 Simple.Net Google Group
+</p>
